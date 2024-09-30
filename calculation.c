@@ -5,3 +5,6 @@ printf("done by dev1");
 
 
 substracton();
+\
+
+jsIsTheBestLanguage();
